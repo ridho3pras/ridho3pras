@@ -7,7 +7,7 @@ Web Developer
 I've been learning to code for 1 year, after finishing college. I have learned HTML, CCS, PHP and Laravel Framework from scratch.
 
 * 🌍  I'm based in Singkawang
-* 🖥️  See my portfolio at [My Portfolio](http://https://mypost.zeromaut.xyz/)
+* 🖥️  See my portfolio at [My Portfolio](http://mypost.zeromaut.xyz/)
 * ✉️  You can contact me at [ridho654321@gmail.com](mailto:ridho654321@gmail.com)
 * 🧠  I'm learning Laravel
 
